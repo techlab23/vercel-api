@@ -1,0 +1,65 @@
+[
+  {
+    "id": "phone-1",
+    "image": "1.jpg",
+    "name": "Tough case 1",
+    "description": "Shockproof iPhone 11 Heavy Duty Case Cover 1",
+    "slug": "shockproof-iPhone-11-heavy-duty-case-cover-1",
+    "price": "20",
+    "url": "https://sc-api.now.sh/api/phone-1"
+  },
+  {
+    "id": "phone-2",
+    "image": "2.jpg",
+    "name": "Tough case 2",
+    "description": "Shockproof iPhone 11 Heavy Duty Case Cover 2",
+    "slug": "shockproof-iPhone-11-heavy-duty-case-cover-2",
+    "price": "30",
+    "url": "https://sc-api.now.sh/api/phone-2"
+  },
+  {
+    "id": "phone-3",
+    "image": "3.jpg",
+    "name": "Tough case 3",
+    "description": "Shockproof iPhone 11 Heavy Duty Case Cover 3",
+    "slug": "shockproof-iPhone-11-heavy-duty-case-cover-3",
+    "price": "40",
+    "url": "https://sc-api.now.sh/api/phone-3"
+  },
+  {
+    "id": "phone-4",
+    "image": "4.jpg",
+    "name": "Tough case 4",
+    "description": "Shockproof iPhone 11 Heavy Duty Case Cover 4",
+    "slug": "shockproof-iPhone-11-heavy-duty-case-cover-4",
+    "price": "50",
+    "url": "https://sc-api.now.sh/api/phone-4"
+  },
+  {
+    "id": "phone-5",
+    "image": "5.jpg",
+    "name": "Tough case 5",
+    "description": "Shockproof iPhone 11 Heavy Duty Case Cover 5",
+    "slug": "shockproof-iPhone-11-heavy-duty-case-cover-5",
+    "price": "30",
+    "url": "https://sc-api.now.sh/api/phone-5"
+  },
+  {
+    "id": "phone-6",
+    "image": "6.jpg",
+    "name": "Tough case 6",
+    "description": "Shockproof iPhone 11 Heavy Duty Case Cover 6",
+    "slug": "shockproof-iPhone-11-heavy-duty-case-cover-6",
+    "price": "20",
+    "url": "https://sc-api.now.sh/api/phone-6"
+  },
+  {
+    "id": "phone-7",
+    "image": "7.jpg",
+    "name": "Tough case 7",
+    "description": "Shockproof iPhone 11 Heavy Duty Case Cover 7",
+    "slug": "shockproof-iPhone-11-heavy-duty-case-cover-7",
+    "price": "45",
+    "url": "https://sc-api.now.sh/api/phone-7"
+  }
+]
