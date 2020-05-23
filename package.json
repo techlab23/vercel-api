@@ -1,7 +1,7 @@
 {
   "name": "vercel-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sample vercel api",
   "main": "index.js",
   "dependencies": {
     "micro-cors": "^0.1.1"
@@ -11,6 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shirish Nigam",
   "license": "ISC"
 }
