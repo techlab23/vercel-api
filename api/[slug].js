@@ -3,8 +3,8 @@ const products = require("./products.json")
 
 const handler = async (req, res) => {
 
-  const { query: { id } } = req
-  const product = products.find(m => m.id == id)
+  const { query: { slug } } = req
+  const product = products.find(m => m.slug == slug)
   res.json(product)
 
 }
